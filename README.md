@@ -1,5 +1,5 @@
 # ama-abdullah0o0
-```
+
 # Ask me anything!
 ​
 I get a lot of questions by email. This way anyone can read the answer!
@@ -20,4 +20,4 @@ Anything means anything. Personal questions. Money. Work. Life. Code. Whatever.
 - Create your own AMA
 - [What's an AMA?](https://en.wikipedia.org/wiki/R/IAmA)
 ​
-```
+
